@@ -22,7 +22,7 @@ pod 'EchoTest'
 
 ## Author
 
-xiaorong1176, wangrong@weidian.com
+xiaorong1176, 750106615@qq.com
 
 ## License
 

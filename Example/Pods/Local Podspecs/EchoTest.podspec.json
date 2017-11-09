@@ -1,0 +1,22 @@
+{
+  "name": "EchoTest",
+  "version": "0.1.0",
+  "summary": "A short description of EchoTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaorong1176/EchoTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaorong1176": "wangrong@weidian.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaorong1176/EchoTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EchoTest/Classes/**/*"
+}

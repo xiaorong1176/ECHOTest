@@ -1,0 +1,16 @@
+PODS:
+  - EchoTest (0.1.0)
+
+DEPENDENCIES:
+  - EchoTest (from `../`)
+
+EXTERNAL SOURCES:
+  EchoTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EchoTest: 092599e331e21f99b590d8a5d05212266ce28fc3
+
+PODFILE CHECKSUM: a9fc614c6a7a322df8af4f4cc56e6a7259f0af31
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,6 @@
+framework module Pods_EchoTest_Example {
+  umbrella header "Pods-EchoTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module EchoTest {
+  umbrella header "EchoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
